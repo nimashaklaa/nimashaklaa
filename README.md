@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandi Nimasha Kamburugamuwa</h1>
 <h3 align="center">Software Engineer </h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimashaklaa&label=Profile%20views&color=0e75b6&style=flat" alt="nimashaklaa" /> </p>
 
