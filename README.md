@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:amandinimasha99@gmail.com" target="_blank">📧 Email</a> |
-<a href="https://www.linkedin.com/in/amandi-nimasha-0077a5259" target="_blank">💼 LinkedIn</a> |
-<a href="https://medium.com/@amandinimasha99" target="_blank">✍️ Medium</a>
+<a href="mailto:amandinimasha99@gmail.com" target="_blank" style="text-decoration: none;">📧 Email</a> | 
+<a href="https://www.linkedin.com/in/amandi-nimasha-0077a5259" target="_blank" style="text-decoration: none;">�� LinkedIn</a> | 
+<a href="https://medium.com/@amandinimasha99" target="_blank" style="text-decoration: none;">✍️ Medium</a>
 </p>
