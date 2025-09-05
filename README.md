@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amandi Nimasha</h1>
-<h3 align="center">💻 Software Engineer | Passionate about AI, Blockchain & DevOps</h3>
+<h3 align="center">💻 Software Engineer | Passionate about AI, Web3 & DevOps</h3>
 
 - Enthusiastic about building innovative and scalable software solutions
 
