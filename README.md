@@ -3,7 +3,8 @@
 
 - Enthusiastic about building innovative and scalable software solutions
 
-- Continuously learning and experimenting with emerging technologies  
+- Continuously learning and experimenting with emerging technologies
+- 🎮 Currently building: [Playverse](https://playverse-ten.vercel.app/) — a universal gaming platform.  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
