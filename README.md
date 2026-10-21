@@ -46,13 +46,15 @@
 
 ## 📊 GitHub Stats
 
+<!-- Dominant: Top Languages -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nimashaklaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashaklaa&layout=donut&langs_count=8&theme=radical&hide_border=true" alt="Top languages" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashaklaa&layout=donut&langs_count=8&theme=radical&hide_border=true&card_width=520" alt="Top languages" />
 </p>
 
+<!-- Smaller supporting cards -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nimashaklaa&theme=radical&hide_border=true" alt="Streak" />
+  <img height="120" src="https://github-readme-stats.vercel.app/api?username=nimashaklaa&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="120" src="https://streak-stats.demolab.com?user=nimashaklaa&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 ---
