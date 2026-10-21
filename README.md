@@ -11,3 +11,8 @@
 <a href="https://www.linkedin.com/in/amandi-nimasha-0077a5259" target="_blank" style="text-decoration: none;">💼 LinkedIn</a> | 
 <a href="https://medium.com/@amandinimasha99" target="_blank" style="text-decoration: none;">✍️ Medium</a>
 </p>
+
+<h3 align="left">📊 Languages I code in</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashaklaa&layout=donut&langs_count=8&hide_border=true" alt="Top Languages" />
+</p>
