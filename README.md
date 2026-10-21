@@ -23,28 +23,17 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🚀 Enthusiastic about building innovative and scalable software solutions
-- 🌱 Continuously learning and experimenting with emerging technologies
-- 🤖 Passionate about **AI**, ⛓️ **Web3** and ☁️ **DevOps**
-- 🎓 CSE Graduate from the University of Moratuwa
+- Enthusiastic about building innovative and scalable software solutions
+- Continuously learning and experimenting with emerging technologies
+- Passionate about **AI**, **Web3** and **DevOps**
+- CSE Graduate from the University of Moratuwa
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,dart&perline=7" alt="Languages" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css,sass,tailwind,vue,bootstrap&perline=8" alt="Frontend" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,firebase,mongodb,mysql,postman,figma&perline=8" alt="Backend, mobile and tools" />
-</p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- Dominant: Top Languages -->
 <p align="center">
@@ -59,7 +48,7 @@
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="mailto:amandinimasha99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
