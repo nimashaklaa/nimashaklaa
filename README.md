@@ -48,7 +48,7 @@
 
 <!-- Dominant: Top Languages -->
 <p align="center">
-  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashaklaa&layout=donut&langs_count=8&theme=radical&hide_border=true&card_width=520" alt="Top languages" />
+  <img width="520" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashaklaa&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=520" alt="Top languages" />
 </p>
 
 <!-- Smaller supporting cards -->
